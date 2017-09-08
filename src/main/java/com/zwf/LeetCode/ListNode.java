@@ -7,5 +7,6 @@ public class ListNode {
 
 	public ListNode(int x) {
 		val = x;
+		int i = 3;
 	}
 }
